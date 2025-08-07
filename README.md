@@ -1,4 +1,5 @@
 # Deltaware-Internship
 
+# Cross-Site Scripting (XSS) Detection Lab
 
-# custom XSS payloads for stored, reflected, and DOM-based XSS.
+Create custom XSS payloads for stored, reflected, and DOM-based XSS.
